@@ -1,0 +1,36 @@
+// MAIN
+main {
+    background-color: #FFFFFF;
+    margin-top: 30px;
+    .coffee-container {
+        flex-direction: column;
+        .coffee-types {
+            h1 {
+                text-align: center;
+                text-transform: uppercase;
+               
+
+            }
+                img {
+                    width: 100%;
+                    width: 450px;
+                    // display: flex ;    
+                 
+                }
+
+                h2 {
+                    text-align: center;
+                    
+                    h3{
+                        text-align: center;
+                    }
+                    .text-coffe {
+                        display: block;
+                        text-align: center;
+                        text-transform: uppercase;
+
+                    }
+                }
+            }
+        }
+    }
